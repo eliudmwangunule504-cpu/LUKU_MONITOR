@@ -452,7 +452,7 @@ print(f"\n[SUCCESS] The optimal intelligence artifact has been saved as 'tanesco
 # =====================================================================
 
 # 1. Install the SHAP library in the Colab environment dynamically
-!pip install shap -q
+#!pip install shap -q
 
 import pandas as pd
 import numpy as np
