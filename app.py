@@ -641,7 +641,7 @@ print("--- [FINISHED] CHAPTER 6 SIMULATION EXECUTED WITH SUCCESS ---")
 """**FIDIA**"""
 
 # 1. Sakinisha Gradio kwenye mazingira ya Colab
-!pip install -q gradio
+#!pip install -q gradio
 
 import gradio as gr
 import pandas as pd
