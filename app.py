@@ -1494,7 +1494,7 @@ if __name__ == "__main__":
     demo.launch(inline=True, share=True, auth=login_auth)
 
 # 1. Sakinisha Gradio kwenye mazingira ya Colab
-!pip install -q gradio
+#!pip install -q gradio
 
 import gradio as gr
 import pandas as pd
@@ -1928,7 +1928,7 @@ if __name__ == "__main__":
 """OTHERS"""
 
 # 1. Install Gradio in the Colab environment
-!pip install -q gradio
+#!pip install -q gradio
 
 import gradio as gr
 import pandas as pd
@@ -2360,7 +2360,7 @@ if __name__ == "__main__":
     demo.launch(inline=True, share=True, auth=login_auth)
 
 # 1. Install Gradio in the Colab environment
-!pip install -q gradio
+#!pip install -q gradio
 
 import gradio as gr
 import pandas as pd
@@ -2790,7 +2790,7 @@ if __name__ == "__main__":
     demo.launch(inline=True, share=True, auth=login_auth)
 
 # 1. Install Gradio in the Colab environment
-!pip install -q gradio
+#!pip install -q gradio
 
 import gradio as gr
 import pandas as pd
@@ -3276,7 +3276,7 @@ if __name__ == "__main__":
 """RESUME     RESUME     RESUME     RESUME     RESUME    """
 
 # 1. Install Gradio in the Colab environment
-!pip install -q gradio
+#!pip install -q gradio
 
 import gradio as gr
 import pandas as pd
@@ -3751,7 +3751,7 @@ if __name__ == "__main__":
     demo.launch(inline=False, share=True, auth=login_auth)
 
 # 1. Install Gradio in the Colab environment
-!pip install -q gradio
+#!pip install -q gradio
 
 import gradio as gr
 import pandas as pd
