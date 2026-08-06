@@ -1064,7 +1064,7 @@ if __name__ == "__main__":
     demo.launch(inline=True, share=True, auth=login_auth)
 
 # 1. Sakinisha Gradio kwenye mazingira ya Colab
-!pip install -q gradio
+#!pip install -q gradio
 
 import gradio as gr
 import pandas as pd
