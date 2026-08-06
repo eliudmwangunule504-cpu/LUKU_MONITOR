@@ -4226,4 +4226,11 @@ with gr.Blocks(css=custom_css, theme=custom_academic_theme, title="Intelligent L
     )
 
 if __name__ == "__main__":
-    demo.launch(inline=False, share=True, auth=login_auth)
+    import os
+    port = int(os.environ.get("PORT", 7860))
+    demo.launch(
+        server_name="0.0.0.0",
+        server_port=port,
+        auth=login_auth,
+        inline=False
+    )
